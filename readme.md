@@ -1,6 +1,7 @@
 # SalesWala Brand Resources
 
-Downloadable vector assets of the SalesWala 
+Downloadable vector assets of the <a href="https://saleswala.co" >
+SalesWala</a> 
 
 ### Just the icon
 <p align="left">
